@@ -47,7 +47,9 @@ SQL, Pandas, NumPy, ChromaDB, MongoDB, Snowflake, Neo4j, AWS Glue
 ---
 
 ### 📫 Let’s Connect  
-✉️ rachakondasricharan@gmail.com 
+✉️ rachakondasricharan@gmail.com
+
 🔗 www.linkedin.com/in/sricharanrachakonda
+
 🧠 Always learning, always building.
 

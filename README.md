@@ -2,7 +2,7 @@
 
 🚀 Data Scientist | Generative AI Enthusiast | Turning Models into Business Impact
 
-With 3+ years of experience in Data Science and AI, I specialize in building intelligent systems using machine learning, NLP, and cutting-edge GenAI. From optimizing healthcare fraud detection to automating enterprise reports with LLMs, I turn data into real-world value.
+🎓 With a Master’s in Advanced Data Analytics and 3+ years of experience in Data Science and AI, I specialize in building intelligent systems using machine learning, NLP, and cutting-edge GenAI. From optimizing healthcare fraud detection to automating enterprise reports with LLMs, I turn data into real-world value.
 
 ---
 
